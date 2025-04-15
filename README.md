@@ -1,2 +1,55 @@
-# Templates
-여러 templates 모음
+# 🌿템플릿 아카이브
+
+<details>
+<summary>🔗 <strong>📁 GitHub 템플릿 모음 Repository</strong> (클릭해서 열기)</summary>
+
+<br>
+
+이 저장소는 GitHub에서 **이슈 템플릿**과 **PR 템플릿**을 손쉽게 적용하고 사용할 수 있도록 정리된 템플릿 모음집입니다.
+다양한 유형별 템플릿이 `IssueTemplates`와 `PRTemplate` 폴더에 정리되어 있습니다.
+
+---
+
+## 🗂️ 폴더 구조
+```
+.
+├── .github
+│   ├── ISSUE_TEMPLATE/         # GitHub에서 자동으로 인식되는 이슈 템플릿 폴더
+│   └── PULL_REQUEST_TEMPLATE.md # 기본 PR 템플릿 파일
+│
+├── github                      # 템플릿 파일 모음 폴더 (링크 ↓)
+│   ├── IssueTemplates/         # 다양한 이슈 템플릿 정리
+│   └── PRTemplate/
+│       └── pr_general/         # PR 유형별 템플릿 모음
+│           ├── pr_bugfix.md
+│           ├── pr_feature.md
+│           └── pr_refactor.md
+│
+├── labels.json                 # 커스텀 GitHub 라벨 설정용 JSON
+└── README.md                   # 저장소 소개 파일
+```
+
+
+---
+
+
+## ⚙️ 사용 방법
+
+### ✅ 템플릿 적용하기
+
+해당 저장소의 `.github` 폴더를 **자신의 프로젝트 루트 디렉토리에 그대로 복사**하면 다음과 같은 기능이 자동 적용됩니다:
+
+- **이슈 템플릿**: 이슈 작성 시 템플릿 목록이 표시되고 선택할 수 있습니다.
+- **PR 템플릿**: PR 생성 시 기본 템플릿이 자동으로 삽입됩니다.
+
+> 📝 `.git` 폴더가 아닌 `.github` 폴더를 루트에 넣어야 합니다!
+
+---
+
+## 🏷️ 라벨 설정
+
+- 저장소 내의 `labels.json` 파일을 사용하면 GitHub 라벨을 일괄 적용할 수 있습니다.
+- 관련 도구(`github-labeler` 등)를 통해 한 줄 명령어로 적용 가능합니다.
+
+---
+
