@@ -1,8 +1,17 @@
 ---
+name: Question
+about: 질문 있어요
+title: "[QnA]"
+labels: "\U0001F64B‍♂️ Question"
+assignees: Kimgyuilli
+
+---
+
+---
 name: ❓ Question / Help
 about: 궁금한 점이나 도움이 필요한 내용을 올려주세요!
 title: "[QnA] "
-labels: 🙋‍♂️ Question
+labels: question
 assignees: ''
 
 ---

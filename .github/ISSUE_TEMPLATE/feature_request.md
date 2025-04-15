@@ -1,4 +1,13 @@
 ---
+name: Feature request
+about: 새로운 Feature 제안
+title: "[✨ Feature]"
+labels: "✨ Feature"
+assignees: Kimgyuilli
+
+---
+
+---
 name: ✨ Feature Request
 about: 새로운 기능이 필요하신가요? 아이디어를 공유해주세요!
 title: "[Feature] "
