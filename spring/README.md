@@ -18,6 +18,14 @@ Spring Initializr를 통한 프로젝트 생성부터 의존성 설정, DB 연�
 
 ---
 
+## 2. gitignore 파일 생성
+
+[gitignore 파일 생성](https://www.toptal.com/developers/gitignore)
+
+ex) intellij, java, git, gradle
+
+---
+
 ## 📦 Dependency 설정 (Gradle)
 
 아래는 가장 많이 사용하는 Spring Boot 의존성 조합입니다. 필요한 부분만 복사해서 사용하세요.
