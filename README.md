@@ -57,3 +57,26 @@
 
 ---
 
+</details>
+
+<details>
+<summary>🌱 <strong>📁 Spring Starter Setup 템플릿</strong> (클릭해서 열기)</summary>
+
+<br>
+
+이 폴더는 Spring Boot 기반 프로젝트를 빠르게 시작할 수 있도록  
+**기본 의존성 설정**, **DB별 application.yml 예시**, **JPA 옵션**, **DevTools** 등의 정보를 모은 템플릿 아카이브입니다.
+
+- Gradle 기반 Spring 프로젝트를 처음 세팅할 때 유용합니다.
+- H2, MySQL, PostgreSQL 등 다양한 DB에 대응한 설정 예시 포함
+
+🔗 [Spring Starter 템플릿 바로가기](https://github.com/Kimgyuilli/Templates/tree/main/spring)
+
+
+
+> 📌 기본적으로 자주 쓰이는 의존성과 설정을 중심으로 구성되어 있어, 복붙만으로 초기 세팅을 마칠 수 있습니다.
+
+---
+
+</details>
+
