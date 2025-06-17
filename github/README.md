@@ -32,6 +32,16 @@ GitHub 프로젝트를 효율적으로 관리하기 위한 템플릿과 설정 �
 
 ---
 
+## 💬 Discord와 GitHub 연결하기
+
+- 🔗 [네이버 블로그: GitHub 알림을 Discord로 보내기 - 1편](https://blog.naver.com/youjininreallife/223477090746)  
+  > GitHub 저장소에 이벤트가 발생했을 때, Discord 채널로 알림을 전송하는 방법을 소개합니다. Discord Webhook 설정부터 GitHub Actions 연동까지 설명합니다.
+
+- 🔧 [네이버 블로그: GitHub 알림을 Discord로 보내기 - 2편](https://blog.naver.com/youjininreallife/223477102953)  
+  > 실제 GitHub Actions 설정 예시와 함께, PR 생성/이슈 등록 시 자동으로 Discord에 메시지를 전송하는 자동화 과정을 설명합니다.
+ 
+ ---
+
 ## 🛠️ 예시 템플릿 모음
 
 | 구분         | 경로 예시                            | 파일 이름 예시              |
