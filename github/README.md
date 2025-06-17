@@ -42,6 +42,15 @@ GitHub 프로젝트를 효율적으로 관리하기 위한 템플릿과 설정 �
  
  ---
 
+ ## 💼 Slack과 GitHub 연결하기
+
+- 📘 [티스토리: GitHub과 Slack 연동하기](https://mingos-habitat.tistory.com/53)
+- 🔧 [Github: GitHub - Slack 연동 문서](https://github.com/integrations/slack)  
+  > Slack에서 GitHub 알림을 받아보는 방법을 설명합니다.  
+  Slack 앱에 GitHub를 추가하고, 원하는 채널에 이슈/PR/커밋 알림을 자동으로 받아보는 과정을 단계별로 안내합니다.
+
+---
+
 ## 🛠️ 예시 템플릿 모음
 
 | 구분         | 경로 예시                            | 파일 이름 예시              |
