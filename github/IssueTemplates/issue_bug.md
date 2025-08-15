@@ -1,12 +1,3 @@
----
-name: 🐞 Bug Report
-about: 버그를 발견하셨나요? 여기서 제보해주세요.
-title: "[Bug] "
-labels: bug
-assignees: ''
-
----
-
 ## 🐛 버그 설명
 
 발생한 버그에 대해 간략하고 명확하게 설명해주세요.

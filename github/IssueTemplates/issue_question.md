@@ -1,12 +1,3 @@
----
-name: ❓ Question / Help
-about: 궁금한 점이나 도움이 필요한 내용을 올려주세요!
-title: "[QnA] "
-labels: 🙋‍♂️ Question
-assignees: ''
-
----
-
 ## ❓ 질문 내용
 
 궁금한 점을 간결하고 명확하게 작성해주세요.

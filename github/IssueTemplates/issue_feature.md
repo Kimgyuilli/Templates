@@ -1,12 +1,3 @@
----
-name: ✨ Feature Request
-about: 새로운 기능이 필요하신가요? 아이디어를 공유해주세요!
-title: "[Feature] "
-labels: ✨ Feature
-assignees: '담당자 이름름'
-
----
-
 ## 🌟 제안할 기능
 
 어떤 기능을 제안하시는지 간결하고 명확하게 설명해주세요.
