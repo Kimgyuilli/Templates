@@ -1,10 +1,3 @@
----
-name: 🐞 Bugfix PR
-about: 기존 기능의 버그를 수정하는 Pull Request
-title: "[Bugfix] "
-labels: bug
----
-
 ## 🐛 수정한 버그
 
 - 어떤 문제가 있었고, 어떻게 해결했는지 설명해주세요.

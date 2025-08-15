@@ -1,10 +1,3 @@
----
-name: ✨ Feature PR
-about: 새로운 기능을 추가하는 Pull Request
-title: "[Feature] "
-labels: enhancement
----
-
 ## ✅ 작업 내용
 
 - 어떤 기능을 추가했는지 명확하게 설명해주세요.
